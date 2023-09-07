@@ -5,9 +5,11 @@ This project is a GraphQL API that provides information about characters from th
 ## Technologies Used
 
 - Node.js
+- Express
 - GraphQL
 - Apollo Server
 - Axios
+- Jest
 
 ## Project Setup
 
@@ -33,7 +35,7 @@ npm start
 
 The GraphQL server will be running at http://localhost:3000/graphql. You can open this URL in your browser or use a tool like GraphQL Playground to interact with the API.
 
-#Using The API
+##Using The API
 You can make GraphQL queries to the API to retrieve information about Rick and Morty characters. Here's an example query:
 ```bash
 query{
@@ -49,6 +51,15 @@ query{
 }
 ```
 This query will return a list of 10 characters on page 1, including their IDs, names, and species.
+
+##Running Tests
+To run tests for this project, follow these steps:
+
+Run the tests using Jest:
+```bash
+npm test
+```
+
 
 
 
