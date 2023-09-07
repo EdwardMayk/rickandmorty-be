@@ -5,6 +5,7 @@ This project is a GraphQL API that provides information about characters from th
 ## Technologies Used
 
 - Node.js
+- Typescript
 - Express
 - GraphQL
 - Apollo Server
