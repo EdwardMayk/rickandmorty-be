@@ -53,7 +53,7 @@ query{
 ```
 This query will return a list of 10 characters on page 1, including their IDs, names, and species.
 
-##Running Tests
+## Running Tests
 To run tests for this project, follow these steps:
 
 Run the tests using Jest:
