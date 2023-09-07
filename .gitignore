@@ -1,0 +1,34 @@
+# Node.js
+node_modules/
+dist/
+npm-debug.log
+yarn-error.log
+.pnpm-debug.log
+
+# TypeScript
+*.tsbuildinfo
+
+.env
+# Editors
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+*.suo
+*.user
+*.sln.docstates
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+logs/
+*.log
+
+# Dependency directories
+jspm_packages/
+typings/
