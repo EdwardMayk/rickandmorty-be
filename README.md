@@ -22,7 +22,7 @@ git clone https://github.com/EdwardMayk/rickandmorty-be
 ```
 2. Navigate to the project directory:
 ```bash
-cd rickandmorty-graphql-api
+cd rickandmorty-be
 ```
 3.Install project dependencies:
 ```bash
